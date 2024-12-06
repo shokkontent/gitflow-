@@ -1,0 +1,12 @@
+Index: Dima.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Dima.txt b/Dima.txt
+new file mode 100644
+--- /dev/null	(date 1733490227204)
++++ b/Dima.txt	(date 1733490227204)
+@@ -0,0 +1,1 @@
++2008
+\ No newline at end of file
